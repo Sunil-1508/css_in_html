@@ -1,2 +1,5 @@
 # css in html
-# tq to rajesh
+# CSS 
+# inline
+# internal
+# external
